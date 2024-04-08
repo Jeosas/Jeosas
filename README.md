@@ -3,7 +3,7 @@
 Hi, my name is Jean-Baptiste WINTERGERST, a.k.a. Jeosas !
 
 🇫🇷 French developer.\
-💼 Independant contractor and freelance in software enginering and devops.
+💼 Independant contractor and freelancer in software enginering and devops.
 
 🌱 Currently honing my skills on Rust and NixOS.\
 🗻 In my spare time, I like to indulge in mountain sports.
